@@ -1,9 +1,10 @@
 
 /* Your CSS Code here. */
 #d1{
- width:200px ; 
  display: grid;
-grid-template-columns: auto auto;
+ border: 1px solid #000;
+grid-template-columns: repeat(2, 200px);
+grid-template-rows:repeat(2,200px) ;
  padding: 10px;
  border: 2px solid black;
 }

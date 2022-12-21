@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+#d1{
+ width:200px ; 
+ display: grid;
+grid-template-columns: auto auto;
+ padding: 10px;
+ border: 2px solid black;
+}
+#g-iteam{
+
+    border: 1px dotted rgb(7, 204, 188);
+    padding: 20px;
+}
